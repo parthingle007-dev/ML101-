@@ -141,6 +141,4 @@ The chatbot retrieves the relevant document, generates an answer from it, and sh
 
 ## Author
 
-Parth Ingle  
-Second Year Undergraduate  
-IIT Bombay
+Parth Ingle 
